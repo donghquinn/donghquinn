@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=donghquinn&fontSize=90)
-<div align=center>
-# donghquinn
- </div>
- ---
+
  <div align=center>
  
 ## Skills
