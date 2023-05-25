@@ -11,12 +11,13 @@
 
 
  ---
-
+## My Github Stats
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghquinn&show_icons=true&theme=radical)
 
  ---
-
+## My Language Usages
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghquinn&langs_count=8)](https://github.com/donghquinn/github-readme-stats)
  
  </div>
