@@ -11,7 +11,7 @@
 
  ## Deep Learning Project Repository
  
- <h1 href="https://github.com/dongMLLab"> dongMLLab </h1>
+ <h1> <a href="https://github.com/dongMLLab">dongMLLab</a> </h1>
  
 </div>
 
