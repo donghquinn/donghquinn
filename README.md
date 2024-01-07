@@ -7,12 +7,11 @@
  
 </div>
 
- <div align=center>
-
-
 <div align=center>
 [![trophy](https://github-profile-trophy.vercel.app/?username=samchon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
  </div>
+
+ <div align=center>
  
 
 ## Skills
