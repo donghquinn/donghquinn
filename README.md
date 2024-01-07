@@ -1,12 +1,3 @@
-
- <div align=center>
-
- ## Deep Learning Project Repository
- 
- <h1> <a href="https://github.com/dongMLLab">dongMLLab</a> </h1>
- 
-</div>
-
 <div align=center>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=donghquinn&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -32,3 +23,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghquinn&langs_count=8)](https://github.com/donghquinn/github-readme-stats)
  
  </div>
+
+
+ <div align=center>
+
+ ## Deep Learning Project Repository
+ 
+ <h1> <a href="https://github.com/dongMLLab">dongMLLab</a> </h1>
+ 
+</div>
