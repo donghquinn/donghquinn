@@ -1,12 +1,4 @@
 
-
-<div align=center>
- 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=donghquinn&fontSize=90)
-
- </div>
- 
-
  <div align=center>
 
  ## Deep Learning Project Repository
@@ -16,7 +8,13 @@
 </div>
 
  <div align=center>
+
+
+<div align=center>
+[![trophy](https://github-profile-trophy.vercel.app/?username=samchon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+ </div>
  
+
 ## Skills
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=#3178C6"/>
  <img src="https://img.shields.io/badge/python-3178C6?style=flat&logo=python&logoColor=#3776AB"/>
