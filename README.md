@@ -10,7 +10,7 @@
 ## Skills
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=#3178C6"/>
  <img src="https://img.shields.io/badge/python-3178C6?style=flat&logo=python&logoColor=#3776AB"/>
-
+<img src="https://img.shields.io/badge/golang-3178C6?style=flat&logo=golang&logoColor=#3776AB"/>
 
 
 ## My Github Stats
