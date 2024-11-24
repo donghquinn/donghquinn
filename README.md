@@ -10,7 +10,6 @@
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/golang-00ADD8?style=flat&logo=Go&logoColor=white"/>
-<img src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000"/>
 
 ## My Github Stats
   
