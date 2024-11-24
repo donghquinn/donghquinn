@@ -5,13 +5,12 @@
  </div>
 
  <div align=center>
- 
-
+  
 ## Skills
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/golang-00ADD8?style=flat&logo=Go&logoColor=white"/>
-
+<img src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000"/>
 
 ## My Github Stats
   
@@ -23,12 +22,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghquinn&langs_count=8)](https://github.com/donghquinn/github-readme-stats)
  
  </div>
-
-
- <div align=center>
-
- ## Deep Learning Project Repository
- 
- <h1> <a href="https://github.com/dongMLLab">dongMLLab</a> </h1>
  
 </div>
