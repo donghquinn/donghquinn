@@ -7,9 +7,9 @@
  <div align=center>
   
 ## Skills
+<img src="https://img.shields.io/badge/golang-00ADD8?style=flat&logo=Go&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/golang-00ADD8?style=flat&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 ## My Github Stats
